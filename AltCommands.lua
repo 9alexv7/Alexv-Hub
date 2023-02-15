@@ -1,8 +1,4 @@
 local main = "AL3xvPlays"
-[[  WARNING: Execute this script on your ALT account!
-    Commands:
-    -Annoy player (bot:annoy)
-]]
 local alt = game.Players.LocalPlayer
 local annoy = false
 if game.Players:FindFirstChild(main) then
