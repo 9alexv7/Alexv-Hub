@@ -17,7 +17,7 @@ end
 while true do
     if annoy != false then
         if game.Players:FindFirstChild(annoy) then
-            alt.Character.HumanoidRootPart.CFrame = CFrame.new(game.Players:FindFirstChild(annoy).Character:WaitForChild(HumanoidRootPart).Position) + CFrame.new(math.random(-10,10), math.random(-10,10), math.random(-10,10))
+            alt.Character.HumanoidRootPart.CFrame = CFrame.new(game.Players:FindFirstChild(annoy).Character:WaitForChild(HumanoidRootPart).Position)
         else
             annoy = false
         end end
