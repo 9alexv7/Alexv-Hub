@@ -5,4 +5,4 @@ Get Eaten!,
 Millionaire Empire Tycoon,               
 EAT or DIE and MORE!
 
-This repository may also contain some stuff that are NOT related to Alexv hub
+This repository may also contain some stuff that I need for AlxPloit (pls ignore them)
